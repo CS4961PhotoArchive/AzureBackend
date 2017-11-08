@@ -1,0 +1,2 @@
+C:\Games\Downloads\boephotoarchive_Runtime\boephotoarchiveService\obj\Debug\boephotoarchiveService.csprojResolveAssemblyReference.cache
+C:\Games\Downloads\boephotoarchive_Runtime\boephotoarchiveService\obj\Debug\boephotoarchiveService.csproj.CoreCompileInputs.cache
