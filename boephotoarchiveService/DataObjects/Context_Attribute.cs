@@ -6,7 +6,7 @@ namespace boephotoarchiveService.DataObjects
     {
      
         public string ContextID { get; set; }
-
         public string AttributeID { get; set; }
+        public int SortNumber { get; set; }
     }
 }

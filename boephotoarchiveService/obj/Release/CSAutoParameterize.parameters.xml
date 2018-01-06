@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <parameters>
   <parameter name="MS_TableConnectionString-Web.config Connection String" description="MS_TableConnectionString Connection String used in web.config by the application to access the database." defaultValue="Data Source=(localdb)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\aspnet-boephotoarchiveService-20171102045346.mdf;Initial Catalog=aspnet-boephotoarchiveService-20171102045346;Integrated Security=True;MultipleActiveResultSets=True" tags="SqlConnectionString">
-    <parameterEntry kind="XmlFile" scope="C:\\Games\\Downloads\\boephotoarchive_Runtime\\boephotoarchiveService\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='MS_TableConnectionString']/@connectionString" />
+    <parameterEntry kind="XmlFile" scope="C:\\Games\\Documents\\CS\ 4961\ Senior\ Design\\boephotoarchive_Runtime2\\boephotoarchiveService\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='MS_TableConnectionString']/@connectionString" />
   </parameter>
 </parameters>
